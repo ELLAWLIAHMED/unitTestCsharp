@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\user\source\repos\UnitTestingSample\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb

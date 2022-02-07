@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "185626e6-cad3-4ab9-af09-358daedc5a4e": {
+      "ProjectGuid": "185626e6-cad3-4ab9-af09-358daedc5a4e",
+      "DisplayName": "UnitTestingSample",
+      "ColorIndex": 0
+    },
+    "dd5cffe9-0e22-4713-874a-b3018d621c05": {
+      "ProjectGuid": "dd5cffe9-0e22-4713-874a-b3018d621c05",
+      "DisplayName": "BankAccount",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "95e32d8a-1a87-4e46-8b81-b6600cc881a5": {
+      "ProjectGuid": "95e32d8a-1a87-4e46-8b81-b6600cc881a5",
+      "DisplayName": "Data Access",
+      "ColorIndex": 2
+    },
+    "4483699c-289f-4ac5-b2eb-12fdb95ebcc1": {
+      "ProjectGuid": "4483699c-289f-4ac5-b2eb-12fdb95ebcc1",
+      "DisplayName": "ConsoleClient",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
